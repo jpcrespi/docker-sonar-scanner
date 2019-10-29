@@ -1,0 +1,1 @@
+## dockerized sonar scanner
